@@ -187,7 +187,7 @@ $ npm start
    10. npm install axios
    11. change fetch to axios in HomeScreen
 9. Install Babel For ES6 Syntax
-   1. npm install -D babel core, cli, node, preset-env
+   1. npm install -D @babel/core, @babel/cli, @babel/node, @babel/preset-env
    2. Create .babelrc and set presets to @babel/preset-env
    3. npm install -D nodemon
    4. set start: nodemon --watch backend --exec babel-node backend/server.js
