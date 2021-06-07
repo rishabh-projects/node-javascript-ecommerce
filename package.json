@@ -1,0 +1,23 @@
+{
+  "name": "javascript-ecommerce",
+  "version": "1.0.0",
+  "description": "![amazona](/frontend/images/jsamazona.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh-projects/node-javascript-ecommerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabh-projects/node-javascript-ecommerce/issues"
+  },
+  "homepage": "https://github.com/rishabh-projects/node-javascript-ecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
